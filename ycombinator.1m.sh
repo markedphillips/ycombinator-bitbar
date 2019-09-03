@@ -5,7 +5,7 @@
 # <bitbar.author>Mark Phillips</bitbar.author>
 # <bitbar.author.github>markedphillips</bitbar.author.github>
 # <bitbar.desc>Lists the YCombinator News</bitbar.desc>
-# <bitbar.image>https://cloud.githubusercontent.com/assets/1476865/24081772/fd2011c2-0cb9-11e7-8679-30f1c56c0acd.png</bitbar.image>
+# <bitbar.image>https://github.com/markedphillips/ycombinator-bitbar/blob/master/ycombinator_screenshot.png</bitbar.image>
 # <bitbar.dependencies>bash, lynx</bitbar.dependencies>
 
 #Y="R0lGODdhJAAkANUAAAAAAP83AP8/AP9DAP9MAP9WAP9dAP9lEP9mAP9oFP1qAPxxAP5zEv9zPfd7AP58PPqDAP6DTP+DUfqIC/mLAv+LbvmOE/+OcP+RdP+We/+Yf/6Zb/+bg/ydc/+fif6kh/6njPqodf6ojPura/qvgPu3i/e4kfu8lPu+mP3BmfnDlv/VzfvWtfvWu//b1P7cxv7j2v7p0//q5v7v6P7y6//08v/15/748v///wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAADkALAAAAAAkACQAAAb/QIRwSCwaj8ikcslsOp/QqHRKdSYQhMGAYDgQr9kt4gptYDwczENBNJg5HkwjSsC4arVVR8FGGAYVK3guGARQBBkwODg1Jg59fiI1izAZhk8FESUvjCkWDAYGDBQoky8lEQVRCxAnkywjDwUFDyMsjCcQC1MGIJMxKRECAhIpMYwgBrwCFy43NC8dQh0vNDcuFwLKUgYPIS3PJRQUJdYtIbJVCgskMjctKirgMiQLkFQGGy82NP00Ni82bKuCpdixRTiASbhEkJYtGotowEpH0A+DCSdmLJpxYgKoikMMfJCxSMaHgSANBMhAEoeMDAFQVhygoaUMDQNAEhnAwSaHMJw6hfD0CTTo0JI/gwrlABEHjaRK66zot6KQUiFv0sy5CkaLITJXw4odS7as2SVBAAA7"
